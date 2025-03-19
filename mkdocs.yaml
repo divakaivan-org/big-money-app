@@ -1,0 +1,12 @@
+site_name: 'big-money-app'
+site_description: 'Main documentation for the big-money-app'
+repo_url: https://github.com/divakaivan/big-money-app
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.json`
+nav:
+  - Overview:
+      - Getting started: 'docs/index.md'
